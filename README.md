@@ -1,4 +1,4 @@
-# premint raffle reg
+# PremintRaffleReg by SenLuet
 Software for automatic registration in raffles on prmint.xyz
 
 
